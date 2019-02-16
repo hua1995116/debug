@@ -1,4 +1,5 @@
 const card = document.querySelector('.card-link');
 card.onclick = function() {
-    card.text = '123';
+    console.log(ss)
+    card.text = '你好';
 }
