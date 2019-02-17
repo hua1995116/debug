@@ -1,18 +1,12 @@
 {
-  "name": "debug",
+  "name": "babel-plugin",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "hua1995116 <qiufneghyf@gmail.com> (https://github.com/hua1995116)",
-  "license": "ISC",
-  "dependencies": {
-    "webpack": "^4.29.3"
-  },
-  "devDependencies": {
-    "webpack-cli": "^3.2.3"
-  },
-  "description": ""
+  "license": "MIT"
 }

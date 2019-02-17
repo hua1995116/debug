@@ -1,5 +1,5 @@
 {
-  "name": "debug",
+  "name": "myProject",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,9 @@
   "author": "hua1995116 <qiufneghyf@gmail.com> (https://github.com/hua1995116)",
   "license": "ISC",
   "dependencies": {
-    "webpack": "^4.29.3"
-  },
-  "devDependencies": {
+    "webpack": "^4.29.4",
     "webpack-cli": "^3.2.3"
   },
+  "devDependencies": {},
   "description": ""
 }
